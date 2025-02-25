@@ -6,7 +6,7 @@ import lombok.RequiredArgsConstructor;
 
 import java.time.LocalDateTime;
 
-// Final
+
 @Data
 @RequiredArgsConstructor
 @Entity

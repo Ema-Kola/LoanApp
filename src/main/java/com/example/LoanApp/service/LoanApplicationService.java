@@ -1,7 +1,6 @@
 package com.example.LoanApp.service;
 
 import com.example.LoanApp.dao.LoanRepository;
-//import com.example.LoanApp.model.LoanApplication;
 import com.example.LoanApp.model.LoanApplication2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
